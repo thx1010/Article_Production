@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
+.navbar {
+    background-color: #EBF7FF;
+}
+.navbar-brand, h1, h2, h3, h4{
+	font-family: 'Do Hyeon';
+}
+.card{
+	background-color: #FFFFF6;
+}
+h5{
+	font-family: 'Do Hyeon';
+	font-size: 18px;
+}
+body{
+	font-family: 'Nanum Gothic';
+}
